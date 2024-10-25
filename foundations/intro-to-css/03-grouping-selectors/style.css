@@ -1,0 +1,12 @@
+.left-side, 
+.right-side {
+font-size: 28px; 
+font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.left-side {
+    background-color: black;
+    color: white;
+}
+.right-side{
+    background-color: yellow;
+}
